@@ -1,4 +1,1 @@
-- 👋 Hi, I’m AFHAm Fardeen
-- 👀 I’m interested in Machine Learning and Data science.
-- 💞️ I’m looking to collaborate on Nlp projects.
-- 📫 you can reach me through mails. (afhamfardeen98@gmail.com) 
+committed by afham on <Date>
