@@ -1,3 +1,1 @@
-Afham Fardeen,
-
-Bengaluru, India.
+Hi there!
